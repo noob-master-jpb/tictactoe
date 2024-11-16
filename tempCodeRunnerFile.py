@@ -1,0 +1,1 @@
+print(branchout2([1,5,6,8,9,4]))
